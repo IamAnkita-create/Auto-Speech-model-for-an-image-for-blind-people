@@ -7,11 +7,11 @@ Build and train a Convolutional Neural Network using Keras with Tensorflow 2.0 a
 
 Assess the performance of trained CNN and ensure its generalization using various Key performance indicators.
 
-![alt text](https://github.com/[ramandixit13]/[Auto-Speech-model-for-an-image-for-blind-people]/blob/[branch]/image4.jpg?raw=true)
+![alt text](https://github.com/ramandixit13/Auto-Speech-model-for-an-image-for-blind-people/blob/master/image4.jpg)
 
-![alt text](https://github.com/[ramandixit13]/[Auto-Speech-model-for-an-image-for-blind-people]/blob/[branch]/image4(1).jpg?raw=true)
+![alt text](https://github.com/ramandixit13/Auto-Speech-model-for-an-image-for-blind-people/blob/master/image4(1).jpg)
 
-![alt text](https://github.com/[ramandixit13]/[Auto-Speech-model-for-an-image-for-blind-people]/blob/[branch]/image4(2).jpg?raw=true)
+![alt text](https://github.com/ramandixit13/Auto-Speech-model-for-an-image-for-blind-people/blob/master/image4(2).jpg)
 
-![alt text](https://github.com/[ramandixit13]/[Auto-Speech-model-for-an-image-for-blind-people]/blob/[branch]/image4(3).jpg?raw=true)
+![alt text](https://github.com/ramandixit13/Auto-Speech-model-for-an-image-for-blind-people/blob/master/image4(3).jpg)
 
